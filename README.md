@@ -5,6 +5,7 @@ Tensorflow实现机器学习demo
 #### iris=>多任务分类
 #### liner-regression =>线性回归
 #### logistic-regression =>逻辑回归
+### mobilenet =>预训练模型图片分类
 #### mnist  =>卷积神经网络
 #### overfit  =>过拟合
 #### setup =>基础知识
