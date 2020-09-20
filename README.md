@@ -11,6 +11,7 @@ Tensorflow实现机器学习demo
 #### overfit  =>过拟合
 #### setup =>基础知识
 #### speech =>预训练实现语音识别
+#### speech-cn =>预训练+迁移学习实现语音识别训练和数据的保存=>slider声控轮播图
 #### tensor =>tensor
 #### xor  =>多层神经网络
 
